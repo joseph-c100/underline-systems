@@ -7,7 +7,7 @@ max-width: 70vw;
 margin-left: auto;
 margin-right: auto;
 margin-top: 4rem;
-background-color: aliceblue;
+background: radial-gradient(circle, rgba(238,174,202,0.34217436974789917) 0%, rgba(148,187,233,0.17970938375350143) 100%);
 }
 
 .box-bottom a {
