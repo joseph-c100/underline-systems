@@ -3,7 +3,8 @@
 body {
 font-family: 'Univers LT Std', sans-serif;
 font-size: 14px;
-max-width: 70vw;
+max-width: 50vw;
+min-width: 300px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 4rem;
@@ -26,7 +27,7 @@ a {
 }
 
 .contact:hover {
-    background-color: rgb(238, 228, 134);
+    background-color: rgb(249, 239, 152);
     box-shadow: none;
 }
 
@@ -61,8 +62,9 @@ a {
     width: fit-content;
     cursor: pointer;
     margin-top: 8px;
+    border-radius: 4px;
     bottom: 3rem;
-    padding: 0.15rem 0.6rem 0;
+    padding: 0.2rem 0.6rem 0;
     text-align: center;
     white-space: nowrap;
     text-decoration: none;
